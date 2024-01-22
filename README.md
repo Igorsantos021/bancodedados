@@ -7,5 +7,9 @@ Linhas ou tupla são registros do banco de dados
 ## SGBD
 Sistema gerenciador de banco de dados
 
-
+# Trabalhando com MySQL
+## Conectando
+comando -> # mysql -h localhost -u root
  
+-h -> é o local (comutador etc...)
+-u -> é o usuario
