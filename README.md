@@ -9,12 +9,12 @@ Sistema gerenciador de banco de dados
 
 # Trabalhando com MySQL
 ## Conectando
-comando -> # mysql -h localhost -u root
+comando -> `# mysql -h localhost -u root`
  
--h -> é o local (comutador etc...)
--u -> é o usuario
+`-h -> é o local (comutador etc...)`
+`-u -> é o usuario`
 
-comando -> show databases;
+comando -> `show databases;`
 
 mostra os banco de dados do seu servidor
 
@@ -25,14 +25,14 @@ Drop data base "nome do banco de dados" -> apaga tabela inteira
 
 ## Criando banco de dados
 
-comando -> create database "nome do banco de dados"    use bd_jogos;
+comando -> create database "nome do banco de dados"    use `bd_jogos;`
 
 
 ## Criando tabela 
 
 * show databases;
  
-* drop database + bd_jogos; >> apaga o banco de dados. o arquivo
+* `drop database + bd_jogos; >> apaga o banco de dados. o arquivo`
  
 * quando quiser criar um banco de dados: create database  **bd_jogos;**
  
