@@ -30,7 +30,7 @@ comando -> create database "nome do banco de dados"    use `bd_jogos;`
 
 ## Criando tabela 
 
-* show databases;
+* `show databases;`
  
 * `drop database + bd_jogos; >> apaga o banco de dados. o arquivo`
  
@@ -52,5 +52,15 @@ Pra ver a estrutura  da tabela se deu certo ou não = desc
  
 * delete apaga só linha
 
+# COMANDOS SQL
+## DML -DEFINIÇÂO DE DADOS
+ - `Create databse`
+ - `show database`
+ - `create table nome_da_tabela`
+ - `show tables`
+ - `desc nome_da_tabela`
 
-
+## DML - MANIPUlAÇÂO DE DADOS
+- `select * from nome_da_tabela`
+- `insert into nome_da_tabela(campo1, campo2...) values(valor1, valor2)`
+dsdsdsdasaddasasd
