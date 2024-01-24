@@ -90,7 +90,10 @@ PL/SQL é uma linguagem de programação procedural que inclui instruções SQL 
 6. O Que é:
 
 A. DML:
+ é a sigla para Linguagem de Manipulação de Dados. É uma família de linguagens de computador utilizada para a recuperação, inclusão, remoção e modificação de informações em bancos de dados.
 
 B. DDL:
+ A linguagem de definição de dados é a sub-língua responsável pela definição da forma como os dados são estruturados em um banco de dados. Em SQL, isto corresponde à manipulação de tabelas através do 
 
-C. DCL
+C. DCL:
+A Data Control Language é a sub-língua responsável pelas tarefas administrativas de controle do próprio banco de dados, principalmente a concessão e revogação de permissões de banco de dados para os usuários. Em SQL, isto corresponde aos comandos GRANT, REVOKE, e DENY, entre outros.
